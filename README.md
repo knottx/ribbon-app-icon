@@ -1,2 +1,2 @@
-# ribbon-app-icon
-ribbon-app-icon
+### Use `imagemagick` to composite image with cli
+https://formulae.brew.sh/formula/imagemagick
